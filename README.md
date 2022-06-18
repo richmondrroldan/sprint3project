@@ -1,7 +1,9 @@
 # Maritess ng Ekonomiya
 
 Maritess ng Ekonomiya is a project dedicated to collecting news from the following sources:
-PhilStar RSS, and the Daily Inquirer RSS which will then combine into one CSV file. 
+PhilStar RSS, and the Daily Inquirer RSS which will then combine into one CSV file. <br/>
+
+The goal of the project is to collect news over a long period of time and make possible investors aware of the current economic state of the country based on the news articles that'll be spit out by the RSS feed.
 
 # docker-compose.yaml
 To be able to run the Airflow environment it is required to install the following files first:
