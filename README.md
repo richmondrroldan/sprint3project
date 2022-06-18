@@ -18,6 +18,10 @@ this command will be run to be able to access Airflow and the GUI
 ## Usage
 To log in airflow use the default credentials which are username: airflow and password: airflow. Once you have accessed the GUI simply click on the play button on rich_scraper_dag to run the DAG. You will be able to access the output files in your selected GCS bucket.
 
+
+# Other requirements
+GCS Keys to be able to upload on bucket
+.env file AIRFLOW_UID = 501 (For default credentials)
 ```
 
 ## Contributing
