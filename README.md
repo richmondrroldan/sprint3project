@@ -20,7 +20,7 @@ To log in airflow use the default credentials which are username: airflow and pa
 
 
 # Other requirements
-GCS Keys to be able to upload on bucket
+GCS Keys to be able to upload on bucket<br/>
 .env file AIRFLOW_UID = 501 (For default credentials)
 ```
 
